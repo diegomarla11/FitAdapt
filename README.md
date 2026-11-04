@@ -4,6 +4,12 @@ Aplicación web desarrollada como Trabajo de Fin de Grado para la gestión, pers
 
 FitAdapt permite crear un perfil de entrenamiento, generar una rutina adaptada al objetivo, nivel, disponibilidad, equipamiento y molestias del usuario, registrar sesiones reales, analizar el progreso y revisar la técnica de ejercicios mediante visión artificial.
 
+# URL pública para acceder desde navegador 
+
+https://fit-adapt-five.vercel.app/login
+
+Para acceder hace falta registrarse y confirmar el correo, se suele recibir en el apartado de SPAM para poder confirmar. 
+
 ## Tecnologías utilizadas
 
 - Next.js 16
