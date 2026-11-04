@@ -131,7 +131,7 @@ export default async function PaginaLogin({ searchParams }: Props) {
               </h2>
               <p className="mt-3 text-sm leading-6 text-slate-600">
                 Inicia sesión o crea una cuenta para guardar tu perfil, tus
-                rutinas y tus entrenamientos.
+                rutinas y tus entrenamientos. Si ya te has registrado, mira el apartado de spam para confirmar tu correo electrónico. 
               </p>
             </div>
 
